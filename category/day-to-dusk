@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+
+    <link rel="shortcut icon" href="https://we-edit.com.vn/category/favicon.png"  type="image/png" sizes="30x30" />
+    <link rel="icon" href="../favicon.png" type="image/x-icon">
+    <meta name="description" content="If you want to more time with your family and things that you love then don&#039;t waste your time. Send us your photos, we will turn day to dusk, a graceful sunset or a gorgeous dawn views.">
+    <meta name="keywords" content="We-edit, Photo Enhancement, Retouching, Day to Dusk">
+    <meta property="og:url" content="http://we-edit.com.vn/category/day-to-dusk" />
+    <meta property="og:site_name" content="We edit - Day to Dusk" />
+    <meta property="og:type"   content="website" />
+    <meta property="og:title"  content="We edit - Day to Dusk" />
+    <meta property="og:description"  content="If you want to more time with your family and things that you love then don&#039;t waste your time. Send us your photos, we will turn day to dusk, a graceful sunset or a gorgeous dawn views." />
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="300">
+    <meta property="og:image:height" content="300">
+
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="daNZWyZMuKqR3RRk1xX8tM7PHpSJS8DTs3k1XhUs">
+
+    <title>We edit - Day to Dusk</title>
+
+    <!-- Styles -->
+    <link media="all" type="text/css" rel="stylesheet" href="../assets/css/frontend/app.css">
+    </head>
+<body id="site-body" class="homepage offcanvas-init">
+    <div class="site-wrapper">
+        <div class="site-overlay"></div>
+        <div class="offcanvas-menu">
+    <div class="offcanvas-inner">
+        <div class="offcanvas-header">
+            <div class="float-left">
+                <span class="offcanvas-title">Menu</span>
+            </div>
+            <div class="float-right">
+                <div class="close-offcanvas">Close</div>
+            </div>
+        </div>
+        <div class="offcanvas-content">
+            <div class="main-menu">
+                <ul class="site-navigation-main">
+        <li class="menu-item  ">
+        <a href="../index.html">home</a>
+            </li>
+        <li class="menu-item active  has-submenu  ">
+        <a href="day-to-dusk#">Products</a>
+                    <span class="caret"></span>
+            <ul class="submenu">
+                                <li class="menu-item"><a href="photo-enhancement">Photo Enhancement</a></li>
+                                <li class="menu-item"><a href="day-to-dusk">Day To Dusk</a></li>
+                                <li class="menu-item"><a href="virtual-furniture">Virtual Furniture</a></li>
+                                <li class="menu-item"><a href="item-removal">Decluttering</a></li>
+                                <li class="menu-item"><a href="floor-plan">Floor Plan</a></li>
+                                <li class="menu-item"><a href="panorama-stitching">Panoramic Stitching</a></li>
+                            </ul>
+            </li>
+        <li class="menu-item  ">
+        <a href="../blog">blog</a>
+            </li>
+        <li class="menu-item  ">
+        <a href="../about">about</a>
+            </li>
+        <li class="menu-item  ">
+        <a href="../contact">contact</a>
+            </li>
+    </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<header class="site-header">
+    <nav class="site-navigation">
+        <div class="container">
+            <div class="row">
+                <a class="site-logo col-6 col-sm-6 col-md-6 col-lg-2" href="../index.html">
+                    <img class="logo" src="../statics/files/seeds/logo.png" alt="https://we-edit.com.vn">
+                </a>
+                <div class="main-menu col-6 col-sm-6 col-md-6 col-lg-10">
+                    <div id="offcanvas-toggler" class="d-lg-none d-xl-none">
+                        <div class="ico-menu">
+                            <div class="bar"></div>
+                            <div class="bar"></div>
+                            <div class="bar"></div>
+                        </div>
+                        <span>MENU</span>
+                    </div>
+                    <ul class="site-navigation-main d-none d-lg-block">
+        <li class="menu-item  ">
+        <a href="../index.html">home</a>
+            </li>
+        <li class="menu-item active  has-submenu  ">
+        <a href="day-to-dusk#">Products</a>
+                    <span class="caret"></span>
+            <ul class="submenu">
+                                <li class="menu-item"><a href="photo-enhancement">Photo Enhancement</a></li>
+                                <li class="menu-item"><a href="day-to-dusk">Day To Dusk</a></li>
+                                <li class="menu-item"><a href="virtual-furniture">Virtual Furniture</a></li>
+                                <li class="menu-item"><a href="item-removal">Decluttering</a></li>
+                                <li class="menu-item"><a href="floor-plan">Floor Plan</a></li>
+                                <li class="menu-item"><a href="panorama-stitching">Panoramic Stitching</a></li>
+                            </ul>
+            </li>
+        <li class="menu-item  ">
+        <a href="../blog">blog</a>
+            </li>
+        <li class="menu-item  ">
+        <a href="../about">about</a>
+            </li>
+        <li class="menu-item  ">
+        <a href="../contact">contact</a>
+            </li>
+    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+        <main class="site-main bg-grey">
+    <section class="section-wrapper slider-wrapper py-0">
+    <div class="flexslider control-paging-vertical control-paging-large flexslider-hidden">
+        <ul class="slides">
+                                            <li>
+                    <div class="slide-item" href="#">
+                        <div class="img-wrapper">
+                            <img class="banner" src="../statics/files/1543329955-467148198-ieVJ5YbuCIoE6OYYFFNzbD45WG3kQJO7XjOjDBxU.jpeg" alt="Day to night" />
+                        </div>
+                        <div class="slide-item-text container shadow-lg crazy-style-1">
+                            <h1 class="animate_left_to_right">Day to night</h1>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="slide-item" href="#">
+                        <div class="img-wrapper">
+                            <img class="banner" src="../statics/files/1543329921-1341259431-BgEP1jVbdBK36C4Som8dwFsa48OKB5sZq3dXr6mt.jpeg" alt="Day convert to dusk" />
+                        </div>
+                        <div class="slide-item-text container shadow-lg crazy-style-1">
+                            <h1 class="animate_left_to_right">Day convert to dusk</h1>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="slide-item" href="#">
+                        <div class="img-wrapper">
+                            <img class="banner" src="../statics/files/1543329221-319857118-cnCAWcXfl2wOjd4USDwvKEb4rV2dJSSSrr1DeeUb.jpeg" alt="Virtual Dusk" />
+                        </div>
+                        <div class="slide-item-text container shadow-lg crazy-style-1">
+                            <h1 class="animate_left_to_right">Virtual Dusk</h1>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="slide-item" href="#">
+                        <div class="img-wrapper">
+                            <img class="banner" src="../statics/files/1543329050-1180946938-McgEQaXE6ZsIAm9W3tFthc7GfHOzjVqyRQSJNeBR.jpeg" alt="Day to Dusk" />
+                        </div>
+                        <div class="slide-item-text container shadow-lg crazy-style-1">
+                            <h1 class="animate_left_to_right">Day to Dusk</h1>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="slide-item" href="#">
+                        <div class="img-wrapper">
+                            <img class="banner" src="../statics/files/1543328752-204306551-Ev9u9PjqcoYsLckD7G5HWTmz5UDm22GQ01lKyQ6J.jpeg" alt="Day to Dusk" />
+                        </div>
+                        <div class="slide-item-text container shadow-lg crazy-style-1">
+                            <h1 class="animate_left_to_right">Day to Dusk</h1>
+                        </div>
+                    </div>
+                </li>
+                                    </ul>
+    </div>
+</section>
+    <section class="section-wrapper introduction-wrapper">
+        <div class="container">
+            <div class="section-title text-center">
+                <h1 class="heading">We Edit - Leave magic to us</h1>
+            </div>
+            <div class="section-content text-center">
+                <div class="section-content-wrapper">
+                    <p style="margin: 0px auto; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit;"></p><p style="margin: 0px auto; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit;"></p><ul></ul><p></p><p style="margin: 0px 0px 0.5em; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: 1em;"></p><p style="margin: 0px auto; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit;"></p><ul></ul><p></p><p style="margin: 0px 0px 0.5em; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: 1em;"></p><ul></ul><p></p><p style="font-variant-numeric: inherit; font-variant-east-asian: inherit; margin: 0px 34.25px 0px 0px; padding: 0px; border: 0px; font-stretch: inherit; line-height: inherit;"></p><p style="margin: 0px auto; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit;"></p><ul></ul><p></p><p style="margin: 0px 0px 0.5em; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: 1em;"></p><ul></ul><p></p><p style="font-variant-numeric: inherit; font-variant-east-asian: inherit; margin: 0px 34.25px 0px 0px; padding: 0px; border: 0px; font-stretch: inherit; line-height: inherit;"></p><ul></ul><p></p><p style="text-align: justify; font-variant-numeric: inherit; font-variant-east-asian: inherit; margin-bottom: 0.5em; padding: 0px; border: 0px; font-stretch: inherit; line-height: 1.6em;"><br></p><div class="row"><div class="col-md-6 col-sm-6 col-xs-6 column"><div class="ge-content ge-content-type-summernote" data-ge-content-type="summernote"><p style="text-align: justify; "><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><span style="font-size: 24px; font-family: Arial;" data-sheets-value="{" 1":2,"2":"01.brightness="" &="" contrast="" adjustment"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="color: rgb(206, 0, 0);">01</span>.Brightness & Contrast Adjustment</span></p><p style="text-align: justify;"><span style="font-size: 14pt; font-family: Arial;" data-sheets-value="{" 1":2,"2":"01.brightness="" &="" contrast="" adjustment"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><span style="font-size: 24px;" data-sheets-value="{" 1":2,"2":"02.outdoor="" dusk="" sky="" replacement"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="color: rgb(206, 0, 0);">02</span>.Outdoor Dusk Sky Replacement</span></span></p><p style="text-align: justify;"><span style="font-size: 14pt; font-family: Arial;" data-sheets-value="{" 1":2,"2":"01.brightness="" &="" contrast="" adjustment"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"02.outdoor="" dusk="" sky="" replacement"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><span style="font-size: 24px;" data-sheets-value="{" 1":2,"2":"03.remove="" sun="" highlighting="" and="" lightening="" shadows.="" "}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="color: rgb(206, 0, 0);">03</span>.Remove sun highlighting  and lightening shadows. </span></span></span></p><p style="text-align: justify;"><span style="font-size: 14pt; font-family: Arial;" data-sheets-value="{" 1":2,"2":"01.brightness="" &="" contrast="" adjustment"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"02.outdoor="" dusk="" sky="" replacement"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"03.remove="" sun="" highlighting="" and="" lightening="" shadows.="" "}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><span style="font-size: 24px;" data-sheets-value="{" 1":2,"2":"04.turn="" on="" interior="" exterior="" lighting"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="color: rgb(206, 0, 0);">04</span>.Turn on interior/exterior lighting</span></span></span></span></p><p style="text-align: justify;"><span style="font-size: 14pt; font-family: Arial;" data-sheets-value="{" 1":2,"2":"01.brightness="" &="" contrast="" adjustment"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"02.outdoor="" dusk="" sky="" replacement"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"03.remove="" sun="" highlighting="" and="" lightening="" shadows.="" "}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"04.turn="" on="" interior="" exterior="" lighting"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 24px;"><span style="color: rgb(206, 0, 0);">05</span>.Turning in pool/garden lights</span><br></span></span></span></span></p><p style="text-align: justify;"><br></p><p style="text-align: justify;"><br></p><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style></div></div><div class="col-md-6 col-sm-6 col-xs-6 column"><div class="ge-content ge-content-type-summernote" data-ge-content-type="summernote"><p style="text-align: justify;"><span style="font-size: 24px; font-family: Arial;"><span style="color: rgb(206, 0, 0);">06</span>.Vertical & Horizontal Straightening</span><br></p><p style="text-align: justify;"><span data-sheets-value="{" 1":2,"2":"01.brightness="" &="" contrast="" adjustment"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt; font-family: Arial;"><span data-sheets-value="{" 1":2,"2":"02.outdoor="" dusk="" sky="" replacement"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"03.remove="" sun="" highlighting="" and="" lightening="" shadows.="" "}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"04.turn="" on="" interior="" exterior="" lighting"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"05.turning="" in="" pool="" garden="" lights"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"06.vertical="" &="" horizontal="" straightening"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"07.remove="" minor="" blemishes"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 24px;"><span style="color: rgb(206, 0, 0);">07</span>.Remove Minor Blemishes</span></span></span></span></span></span></span></p><p style="text-align: justify;"><span data-sheets-value="{" 1":2,"2":"01.brightness="" &="" contrast="" adjustment"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt; font-family: Arial;"><span data-sheets-value="{" 1":2,"2":"02.outdoor="" dusk="" sky="" replacement"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"03.remove="" sun="" highlighting="" and="" lightening="" shadows.="" "}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"04.turn="" on="" interior="" exterior="" lighting"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"05.turning="" in="" pool="" garden="" lights"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"06.vertical="" &="" horizontal="" straightening"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"07.remove="" minor="" blemishes"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"08.adding="" fire="" to="" fireplaces"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 24px;"><span style="color: rgb(206, 0, 0);">08</span>.Adding Fire to Fireplaces</span></span></span></span></span></span></span></span></p><p style="text-align: justify;"><span data-sheets-value="{" 1":2,"2":"01.brightness="" &="" contrast="" adjustment"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt; font-family: Arial;"><span data-sheets-value="{" 1":2,"2":"02.outdoor="" dusk="" sky="" replacement"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"03.remove="" sun="" highlighting="" and="" lightening="" shadows.="" "}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"04.turn="" on="" interior="" exterior="" lighting"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"05.turning="" in="" pool="" garden="" lights"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"06.vertical="" &="" horizontal="" straightening"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"07.remove="" minor="" blemishes"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"08.adding="" fire="" to="" fireplaces"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"09.add="" green="" grass."}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 24px;"><span style="color: rgb(206, 0, 0);">09</span>.Add green grass.</span></span></span></span></span></span></span></span></span></p><p style="text-align: justify;"><span data-sheets-value="{" 1":2,"2":"01.brightness="" &="" contrast="" adjustment"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt; font-family: Arial;"><span data-sheets-value="{" 1":2,"2":"02.outdoor="" dusk="" sky="" replacement"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"03.remove="" sun="" highlighting="" and="" lightening="" shadows.="" "}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"04.turn="" on="" interior="" exterior="" lighting"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"05.turning="" in="" pool="" garden="" lights"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"06.vertical="" &="" horizontal="" straightening"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"07.remove="" minor="" blemishes"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"08.adding="" fire="" to="" fireplaces"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"09.add="" green="" grass."}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"10.hdr="" processing"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 24px;"><span style="color: rgb(206, 0, 0);">10</span>.HDR Processing</span></span></span></span></span></span></span></span></span></span></p><p style="text-align: justify; "><span data-sheets-value="{" 1":2,"2":"01.brightness="" &="" contrast="" adjustment"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt; font-family: Arial;"><span data-sheets-value="{" 1":2,"2":"02.outdoor="" dusk="" sky="" replacement"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"03.remove="" sun="" highlighting="" and="" lightening="" shadows.="" "}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"04.turn="" on="" interior="" exterior="" lighting"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"05.turning="" in="" pool="" garden="" lights"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"06.vertical="" &="" horizontal="" straightening"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"07.remove="" minor="" blemishes"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"08.adding="" fire="" to="" fireplaces"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"09.add="" green="" grass."}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><span data-sheets-value="{" 1":2,"2":"10.hdr="" processing"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"="" style="font-size: 14pt;"><br></span></span></span></span></span></span></span></span></span></span></p></div></div></div><p style="text-align: justify; font-variant-numeric: inherit; font-variant-east-asian: inherit; margin-bottom: 0.5em; padding: 0px; border: 0px; font-stretch: inherit; line-height: 1.6em;"><br></p><div class="row" style="margin: 0px auto; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit;" nunito="" sans",="" sans-serif;="" width:="" 1141.8px;="" color:="" rgb(10,="" 0,="" 0);"=""></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="image-library-wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+                <div class="library-intro">
+                    <h2 class="heading">Our gallery products</h2>
+                    <p>Our team can add furniture to real estate photography to show potential buyers just how versatile the space is.</p>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8">
+                <div class="library-gallery">
+                    <div class="library-gallery-inner">
+                        <div class="arrow">
+                            <span>Click here</span>
+                            <div class="curve"></div>
+                            <div class="point"></div>
+                        </div>
+                        <ul id="lightgallery" class="list-unstyled row">
+                                                        <li class="lightimage-0 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1541994977-693344959-oDoMLro78eSUBrJwqr3fvr3nTHT5d4lf3hpPkVsT.jpeg 375, https://we-edit.com.vn/statics/files/1541994977-693344959-oDoMLro78eSUBrJwqr3fvr3nTHT5d4lf3hpPkVsT.jpeg 480, https://we-edit.com.vn/statics/files/1541994977-693344959-oDoMLro78eSUBrJwqr3fvr3nTHT5d4lf3hpPkVsT.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1541994977-693344959-oDoMLro78eSUBrJwqr3fvr3nTHT5d4lf3hpPkVsT.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1541994977-693344959-oDoMLro78eSUBrJwqr3fvr3nTHT5d4lf3hpPkVsT.jpeg" alt="1541994977-693344959-oDoMLro78eSUBrJwqr3fvr3nTHT5d4lf3hpPkVsT.jpeg">
+                                                                        <div class="library-gallery-poster">
+                                        <img src="../statics/files/seeds/zoom.png">
+                                    </div>
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-1 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1541994977-554939965-psxGfsMRAkN79ydqoyddDZBTr7dPxSh7NeW1nJqo.jpeg 375, https://we-edit.com.vn/statics/files/1541994977-554939965-psxGfsMRAkN79ydqoyddDZBTr7dPxSh7NeW1nJqo.jpeg 480, https://we-edit.com.vn/statics/files/1541994977-554939965-psxGfsMRAkN79ydqoyddDZBTr7dPxSh7NeW1nJqo.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1541994977-554939965-psxGfsMRAkN79ydqoyddDZBTr7dPxSh7NeW1nJqo.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1541994977-554939965-psxGfsMRAkN79ydqoyddDZBTr7dPxSh7NeW1nJqo.jpeg" alt="1541994977-554939965-psxGfsMRAkN79ydqoyddDZBTr7dPxSh7NeW1nJqo.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-2 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1541994976-1634235245-PU4Igw4hW2rva89WUyC86KWADzLZOPkaYQogGmjU.jpeg 375, https://we-edit.com.vn/statics/files/1541994976-1634235245-PU4Igw4hW2rva89WUyC86KWADzLZOPkaYQogGmjU.jpeg 480, https://we-edit.com.vn/statics/files/1541994976-1634235245-PU4Igw4hW2rva89WUyC86KWADzLZOPkaYQogGmjU.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1541994976-1634235245-PU4Igw4hW2rva89WUyC86KWADzLZOPkaYQogGmjU.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1541994976-1634235245-PU4Igw4hW2rva89WUyC86KWADzLZOPkaYQogGmjU.jpeg" alt="1541994976-1634235245-PU4Igw4hW2rva89WUyC86KWADzLZOPkaYQogGmjU.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-3 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1541994976-946497835-L0lK2DFuK5oBNak0PulyXBONME76WY2Xoq26tPUH.jpeg 375, https://we-edit.com.vn/statics/files/1541994976-946497835-L0lK2DFuK5oBNak0PulyXBONME76WY2Xoq26tPUH.jpeg 480, https://we-edit.com.vn/statics/files/1541994976-946497835-L0lK2DFuK5oBNak0PulyXBONME76WY2Xoq26tPUH.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1541994976-946497835-L0lK2DFuK5oBNak0PulyXBONME76WY2Xoq26tPUH.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1541994976-946497835-L0lK2DFuK5oBNak0PulyXBONME76WY2Xoq26tPUH.jpeg" alt="1541994976-946497835-L0lK2DFuK5oBNak0PulyXBONME76WY2Xoq26tPUH.jpeg">
+                                                                    </a>
+                            </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+    <section class="section-wrapper categories-wrapper">
+    <div class="container">
+        <div class="section-title text-center">
+            <h2 class="heading">OTHER SERVICES</h2>
+        </div>
+        <ul class="list-items row mt-5">
+                        <li class="item col-sm-6 width50-flex">
+                <div class="media row align-items-center">
+                    <a class="col-lg-6" href="photo-enhancement">
+                        <img src="../statics/files/1543887652-312756307-vVSNvlRfzvtFjhrWzWQF3y5szL6cACKskKsmeCeX.jpeg" alt="Photo Enhancement.jpg" />
+                    </a>
+                    <div class="col-lg-6 media-body">
+                        <a href="photo-enhancement">
+                            <h3>Photo Enhancement</h3>
+                            <p>With our highly skilled team, we are confident that we will meet your needs. Please do not hesitate to contact us for a free trial enabling us to better understand your expectations and required editing style</p>
+                            <p class="price">To be informed after testing</p>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                        <li class="item col-sm-6 width50-flex">
+                <div class="media row align-items-center">
+                    <a class="col-lg-6" href="day-to-dusk">
+                        <img src="../statics/files/1543335540-1899990614-zz2OPvZ70nDJlTJgCQgcHctsnPwpuos0J7JM0xa1.jpeg" alt="Day convert to night.jpg" />
+                    </a>
+                    <div class="col-lg-6 media-body">
+                        <a href="day-to-dusk">
+                            <h3>Day to Dusk</h3>
+                            <p>We can turn your day time photography to dusk using specialist techniques to create something special!</p>
+                            <p class="price">To be informed after testing</p>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                        <li class="item col-sm-6 width50-flex">
+                <div class="media row align-items-center">
+                    <a class="col-lg-6" href="item-removal">
+                        <img src="../statics/files/1543887935-674614064-3GgBPZYYauYqDncXEdSvMlTfzZqIhRaDw3q1HuQq.jpeg" alt="Decluttering.jpg" />
+                    </a>
+                    <div class="col-lg-6 media-body">
+                        <a href="item-removal">
+                            <h3>Decluttering</h3>
+                            <p>Let’s make the house clear of any clutter to fully showcase the property to its full potential. We are confident that our expertise and flexible pricing won’t let you down</p>
+                            <p class="price">Flexible</p>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                        <li class="item col-sm-6 width50-flex">
+                <div class="media row align-items-center">
+                    <a class="col-lg-6" href="virtual-furniture">
+                        <img src="../statics/files/1543892492-40643613-3By94oOZ5iDoSnSCc0TgpGP35zjD9XJiTfD4vUGJ.jpeg" alt="Virtual Furniture.jpg" />
+                    </a>
+                    <div class="col-lg-6 media-body">
+                        <a href="virtual-furniture">
+                            <h3>Virtual Furniture</h3>
+                            <p>Vacant house? No problem, lets create ambiance and wow factor by utilising our virtual furniture service. We are confident that you wont be able to tell the difference!</p>
+                            <p class="price">To be informed after checking</p>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                        <li class="item col-sm-6 width50-flex">
+                <div class="media row align-items-center">
+                    <a class="col-lg-6" href="panorama-stitching">
+                        <img src="../statics/files/1543886840-1187243525-6ABV4ktmIjlPZwMbfjsVrt0L6VtWPBivRPblUdEn.jpeg" alt="Panoramic Stitching.jpg" />
+                    </a>
+                    <div class="col-lg-6 media-body">
+                        <a href="panorama-stitching">
+                            <h3>Panoramic Stitching</h3>
+                            <p>Sometimes, instead of recording a video, a panorama image is also a good idea for everyone to have a quick tour around your room/apartment and honestly, it is cheaper too.</p>
+                            <p class="price">To be informed after testing</p>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                        <li class="item col-sm-6 width50-flex">
+                <div class="media row align-items-center">
+                    <a class="col-lg-6" href="floor-plan">
+                        <img src="../statics/files/1543923123-203221419-PidXSZw7Etwn7MsBN47jbpwVWc7BuKWmJjTJFhWA.jpeg" alt="2D Color.jpg" />
+                    </a>
+                    <div class="col-lg-6 media-body">
+                        <a href="floor-plan">
+                            <h3>Floor Plan</h3>
+                            <p>Floorplans are a vital form of marketing to showcase the properties layout and flow. We – Edit can create these for you starting from USD 8.0</p>
+                            <p class="price">To be informed after testing</p>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                    </ul>
+    </div>
+</section>
+</main>
+
+        <footer class="site-footer">
+    <section class="footer-main">
+        <div class="container">
+            <div class="row">
+                <div class="f-col f-logo-wrapper col-sm-12 col-md-12 col-lg-3 col-xl-3">
+                    <a href="../index.html" class="f-logo">
+                        <img src="../statics/files/seeds/logo.png" alt="we-edit.com" />
+                    </a>
+                    <ul class="social horizontal">
+                        <li><a href="https://www.facebook.com/FotoEditingService/" target="_blank"><i class="fa fa-facebook" aria-label="Facebook"></i></a></li>
+                        <li><a href="https://twitter.com" target="_blank"><i class="fa fa-twitter" aria-label="Twitter"></i></a></li>
+                        <li><a href="https://instagram.com" target="_blank"><i class="fa fa-instagram" aria-label="true"></i></a></li>
+                        <li><a href="https://youtube.com" target="_blank"><i class="fa fa-youtube" aria-label="YouTube"></i></a></li>
+                        <li class="last"><a href="https://linkedin.com" target="_blank"><i class="fa fa-linkedin-square" aria-label="Linkedin"></i></a></li>
+                    </ul>
+                </div>
+                <div class="f-col col-sm-6 col-md-4 col-lg-2 col-xl-2">
+                    <h3 class="f-title">Our Services</h3>
+                    <ul>
+                                                <li><a class="text-capitalize" href="virtual-furniture">VIRTUAL FURNITURE</a></li>
+                                                <li><a class="text-capitalize" href="floor-plan">FLOOR PLAN</a></li>
+                                                <li><a class="text-capitalize" href="item-removal">DECLUTTERING</a></li>
+                                                <li><a class="text-capitalize" href="photo-enhancement">PHOTO ENHANCEMENT</a></li>
+                                                <li><a class="text-capitalize" href="panorama-stitching">PANORAMIC STITCHING</a></li>
+                                            </ul>
+                </div>
+                <div class="f-col col-sm-6 col-md-4 col-lg-3 col-xl-3">
+                    <h3 class="f-title">Our Flickr</h3>
+                    <div id="lightgallery-flickr" class="gallery-inner column-3 overflow-hidden"></div>
+                </div>
+
+
+                <div class="f-col facebook-box-wrapper col-sm-12 col-md-4 col-lg-4 col-xl-4">
+                    <div class="facebook-box">
+                        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFotoEditingService%2F&tabs&width=340&height=214&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="214" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="copyright">
+        <div class="container">
+            <div class="row">
+                <p class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">© we-edit.com Pty Ltd. All Rights Reserved.</p>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+                    <ul class="list-horizontal">
+                        <li><a href="../about">About</a></li>
+                        <li><a href="../blog">Blog</a></li>
+                        <li><a href="../contact">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+</footer>
+
+        <a href="day-to-dusk#site-body" id="back-top">
+            <i class="fa fa-long-arrow-up"></i>
+        </a>
+     </div>
+    <script>
+        var flickerConfigs = {
+            baseUrl: 'https://api.flickr.com/services/rest/',
+            apiKey: '3c73644788ac2d1aa5694a308c7c71e4',
+            photoSetID: '72157674021237807',
+        };
+    </script>
+    <script src="../assets/js/frontend.js"></script>
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130516051-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', "UA-130516051-1");
+    </script>
+    </body>
+</html>

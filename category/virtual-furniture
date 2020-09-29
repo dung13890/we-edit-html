@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+
+    <link rel="shortcut icon" href="https://we-edit.com.vn/category/favicon.png"  type="image/png" sizes="30x30" />
+    <link rel="icon" href="../favicon.png" type="image/x-icon">
+    <meta name="description" content="If you are wondering if your furniture idea might match your house or not, just let us know. Our skillful team of virtual staging will show you how it looks.">
+    <meta name="keywords" content="We edit, Virtual Furniture, virtual home staging, 3 D">
+    <meta property="og:url" content="http://we-edit.com.vn/category/virtual-furniture" />
+    <meta property="og:site_name" content="We Edit - Virtual Furniture" />
+    <meta property="og:type"   content="website" />
+    <meta property="og:title"  content="We Edit - Virtual Furniture" />
+    <meta property="og:description"  content="If you are wondering if your furniture idea might match your house or not, just let us know. Our skillful team of virtual staging will show you how it looks." />
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="300">
+    <meta property="og:image:height" content="300">
+
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="daNZWyZMuKqR3RRk1xX8tM7PHpSJS8DTs3k1XhUs">
+
+    <title>We Edit - Virtual Furniture</title>
+
+    <!-- Styles -->
+    <link media="all" type="text/css" rel="stylesheet" href="../assets/css/frontend/app.css">
+    </head>
+<body id="site-body" class="homepage offcanvas-init">
+    <div class="site-wrapper">
+        <div class="site-overlay"></div>
+        <div class="offcanvas-menu">
+    <div class="offcanvas-inner">
+        <div class="offcanvas-header">
+            <div class="float-left">
+                <span class="offcanvas-title">Menu</span>
+            </div>
+            <div class="float-right">
+                <div class="close-offcanvas">Close</div>
+            </div>
+        </div>
+        <div class="offcanvas-content">
+            <div class="main-menu">
+                <ul class="site-navigation-main">
+        <li class="menu-item  ">
+        <a href="../index.html">home</a>
+            </li>
+        <li class="menu-item active  has-submenu  ">
+        <a href="virtual-furniture#">Products</a>
+                    <span class="caret"></span>
+            <ul class="submenu">
+                                <li class="menu-item"><a href="photo-enhancement">Photo Enhancement</a></li>
+                                <li class="menu-item"><a href="day-to-dusk">Day To Dusk</a></li>
+                                <li class="menu-item"><a href="virtual-furniture">Virtual Furniture</a></li>
+                                <li class="menu-item"><a href="item-removal">Decluttering</a></li>
+                                <li class="menu-item"><a href="floor-plan">Floor Plan</a></li>
+                                <li class="menu-item"><a href="panorama-stitching">Panoramic Stitching</a></li>
+                            </ul>
+            </li>
+        <li class="menu-item  ">
+        <a href="../blog">blog</a>
+            </li>
+        <li class="menu-item  ">
+        <a href="../about">about</a>
+            </li>
+        <li class="menu-item  ">
+        <a href="../contact">contact</a>
+            </li>
+    </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<header class="site-header">
+    <nav class="site-navigation">
+        <div class="container">
+            <div class="row">
+                <a class="site-logo col-6 col-sm-6 col-md-6 col-lg-2" href="../index.html">
+                    <img class="logo" src="../statics/files/seeds/logo.png" alt="https://we-edit.com.vn">
+                </a>
+                <div class="main-menu col-6 col-sm-6 col-md-6 col-lg-10">
+                    <div id="offcanvas-toggler" class="d-lg-none d-xl-none">
+                        <div class="ico-menu">
+                            <div class="bar"></div>
+                            <div class="bar"></div>
+                            <div class="bar"></div>
+                        </div>
+                        <span>MENU</span>
+                    </div>
+                    <ul class="site-navigation-main d-none d-lg-block">
+        <li class="menu-item  ">
+        <a href="../index.html">home</a>
+            </li>
+        <li class="menu-item active  has-submenu  ">
+        <a href="virtual-furniture#">Products</a>
+                    <span class="caret"></span>
+            <ul class="submenu">
+                                <li class="menu-item"><a href="photo-enhancement">Photo Enhancement</a></li>
+                                <li class="menu-item"><a href="day-to-dusk">Day To Dusk</a></li>
+                                <li class="menu-item"><a href="virtual-furniture">Virtual Furniture</a></li>
+                                <li class="menu-item"><a href="item-removal">Decluttering</a></li>
+                                <li class="menu-item"><a href="floor-plan">Floor Plan</a></li>
+                                <li class="menu-item"><a href="panorama-stitching">Panoramic Stitching</a></li>
+                            </ul>
+            </li>
+        <li class="menu-item  ">
+        <a href="../blog">blog</a>
+            </li>
+        <li class="menu-item  ">
+        <a href="../about">about</a>
+            </li>
+        <li class="menu-item  ">
+        <a href="../contact">contact</a>
+            </li>
+    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+        <main class="site-main bg-grey">
+    <section class="section-wrapper slider-wrapper py-0">
+    <div class="flexslider control-paging-vertical control-paging-large flexslider-hidden">
+        <ul class="slides">
+                                            <li>
+                    <div class="slide-item" href="#">
+                        <div class="img-wrapper">
+                            <img class="banner" src="../statics/files/1543331010-1311278570-TOGOkLcRALOJ36e6BRKJgKXYmscCN3pBhDgGQmwe.jpeg" alt="VIRTUAL FURNITURE" />
+                        </div>
+                        <div class="slide-item-text container shadow-lg crazy-style-1">
+                            <h1 class="animate_left_to_right">VIRTUAL FURNITURE</h1>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="slide-item" href="#">
+                        <div class="img-wrapper">
+                            <img class="banner" src="../statics/files/1543330875-1030953723-HyVB5bQT3jzD6I2JE2IxHjJWfyID8OjUaYRHYNag.jpeg" alt="VIRTUAL FURNITURE" />
+                        </div>
+                        <div class="slide-item-text container shadow-lg crazy-style-1">
+                            <h1 class="animate_left_to_right">VIRTUAL FURNITURE</h1>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="slide-item" href="#">
+                        <div class="img-wrapper">
+                            <img class="banner" src="../statics/files/1543330693-1521157196-GKfyakfxXpxtgFXddvsrB34UYuIfgh23JBseQcKS.jpeg" alt="VIRTUAL FURNITURE" />
+                        </div>
+                        <div class="slide-item-text container shadow-lg crazy-style-1">
+                            <h1 class="animate_left_to_right">VIRTUAL FURNITURE</h1>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="slide-item" href="#">
+                        <div class="img-wrapper">
+                            <img class="banner" src="../statics/files/1543330573-1850332960-43ITZiDUcR73LeT1UAIR9j9zrCHGU5CFBdaiKKNm.jpeg" alt="VIRTUAL FURNITURE" />
+                        </div>
+                        <div class="slide-item-text container shadow-lg crazy-style-1">
+                            <h1 class="animate_left_to_right">VIRTUAL FURNITURE</h1>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="slide-item" href="#">
+                        <div class="img-wrapper">
+                            <img class="banner" src="../statics/files/1543330365-54659572-NjPK24Q5xaEsHKUCpgCne1riI16Zg1TucBwdaUmp.jpeg" alt="VIRTUAL FURNITURE" />
+                        </div>
+                        <div class="slide-item-text container shadow-lg crazy-style-1">
+                            <h1 class="animate_left_to_right">VIRTUAL FURNITURE</h1>
+                        </div>
+                    </div>
+                </li>
+                                    </ul>
+    </div>
+</section>
+    <section class="section-wrapper introduction-wrapper">
+        <div class="container">
+            <div class="section-title text-center">
+                <h1 class="heading">VIRTUAL FURNITURE</h1>
+            </div>
+            <div class="section-content text-center">
+                <div class="section-content-wrapper">
+                    We edit team  provides the most updated and highly-optimized virtual home staging that includes designing virtual furniture to create a more appealing property and space.We can help you in building that perfect virtual house staging with the use of stunning and luxurious virtual furniture.They can help realtors in getting your properties and houses sold.
+                </div>
+            </div>
+        </div>
+    </section>
+        <section class="section-wrapper categories-wrapper">
+    <div class="container">
+        <div class="section-title text-center">
+            <h2 class="heading">OTHER SERVICES</h2>
+        </div>
+        <ul class="list-items row mt-5">
+                        <li class="item col-sm-6 width50-flex">
+                <div class="media row align-items-center">
+                    <a class="col-lg-6" href="photo-enhancement">
+                        <img src="../statics/files/1543887652-312756307-vVSNvlRfzvtFjhrWzWQF3y5szL6cACKskKsmeCeX.jpeg" alt="Photo Enhancement.jpg" />
+                    </a>
+                    <div class="col-lg-6 media-body">
+                        <a href="photo-enhancement">
+                            <h3>Photo Enhancement</h3>
+                            <p>With our highly skilled team, we are confident that we will meet your needs. Please do not hesitate to contact us for a free trial enabling us to better understand your expectations and required editing style</p>
+                            <p class="price">To be informed after testing</p>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                        <li class="item col-sm-6 width50-flex">
+                <div class="media row align-items-center">
+                    <a class="col-lg-6" href="day-to-dusk">
+                        <img src="../statics/files/1543335540-1899990614-zz2OPvZ70nDJlTJgCQgcHctsnPwpuos0J7JM0xa1.jpeg" alt="Day convert to night.jpg" />
+                    </a>
+                    <div class="col-lg-6 media-body">
+                        <a href="day-to-dusk">
+                            <h3>Day to Dusk</h3>
+                            <p>We can turn your day time photography to dusk using specialist techniques to create something special!</p>
+                            <p class="price">To be informed after testing</p>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                        <li class="item col-sm-6 width50-flex">
+                <div class="media row align-items-center">
+                    <a class="col-lg-6" href="item-removal">
+                        <img src="../statics/files/1543887935-674614064-3GgBPZYYauYqDncXEdSvMlTfzZqIhRaDw3q1HuQq.jpeg" alt="Decluttering.jpg" />
+                    </a>
+                    <div class="col-lg-6 media-body">
+                        <a href="item-removal">
+                            <h3>Decluttering</h3>
+                            <p>Let’s make the house clear of any clutter to fully showcase the property to its full potential. We are confident that our expertise and flexible pricing won’t let you down</p>
+                            <p class="price">Flexible</p>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                        <li class="item col-sm-6 width50-flex">
+                <div class="media row align-items-center">
+                    <a class="col-lg-6" href="virtual-furniture">
+                        <img src="../statics/files/1543892492-40643613-3By94oOZ5iDoSnSCc0TgpGP35zjD9XJiTfD4vUGJ.jpeg" alt="Virtual Furniture.jpg" />
+                    </a>
+                    <div class="col-lg-6 media-body">
+                        <a href="virtual-furniture">
+                            <h3>Virtual Furniture</h3>
+                            <p>Vacant house? No problem, lets create ambiance and wow factor by utilising our virtual furniture service. We are confident that you wont be able to tell the difference!</p>
+                            <p class="price">To be informed after checking</p>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                        <li class="item col-sm-6 width50-flex">
+                <div class="media row align-items-center">
+                    <a class="col-lg-6" href="panorama-stitching">
+                        <img src="../statics/files/1543886840-1187243525-6ABV4ktmIjlPZwMbfjsVrt0L6VtWPBivRPblUdEn.jpeg" alt="Panoramic Stitching.jpg" />
+                    </a>
+                    <div class="col-lg-6 media-body">
+                        <a href="panorama-stitching">
+                            <h3>Panoramic Stitching</h3>
+                            <p>Sometimes, instead of recording a video, a panorama image is also a good idea for everyone to have a quick tour around your room/apartment and honestly, it is cheaper too.</p>
+                            <p class="price">To be informed after testing</p>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                        <li class="item col-sm-6 width50-flex">
+                <div class="media row align-items-center">
+                    <a class="col-lg-6" href="floor-plan">
+                        <img src="../statics/files/1543923123-203221419-PidXSZw7Etwn7MsBN47jbpwVWc7BuKWmJjTJFhWA.jpeg" alt="2D Color.jpg" />
+                    </a>
+                    <div class="col-lg-6 media-body">
+                        <a href="floor-plan">
+                            <h3>Floor Plan</h3>
+                            <p>Floorplans are a vital form of marketing to showcase the properties layout and flow. We – Edit can create these for you starting from USD 8.0</p>
+                            <p class="price">To be informed after testing</p>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                    </ul>
+    </div>
+</section>
+</main>
+
+        <footer class="site-footer">
+    <section class="footer-main">
+        <div class="container">
+            <div class="row">
+                <div class="f-col f-logo-wrapper col-sm-12 col-md-12 col-lg-3 col-xl-3">
+                    <a href="../index.html" class="f-logo">
+                        <img src="../statics/files/seeds/logo.png" alt="we-edit.com" />
+                    </a>
+                    <ul class="social horizontal">
+                        <li><a href="https://www.facebook.com/FotoEditingService/" target="_blank"><i class="fa fa-facebook" aria-label="Facebook"></i></a></li>
+                        <li><a href="https://twitter.com" target="_blank"><i class="fa fa-twitter" aria-label="Twitter"></i></a></li>
+                        <li><a href="https://instagram.com" target="_blank"><i class="fa fa-instagram" aria-label="true"></i></a></li>
+                        <li><a href="https://youtube.com" target="_blank"><i class="fa fa-youtube" aria-label="YouTube"></i></a></li>
+                        <li class="last"><a href="https://linkedin.com" target="_blank"><i class="fa fa-linkedin-square" aria-label="Linkedin"></i></a></li>
+                    </ul>
+                </div>
+                <div class="f-col col-sm-6 col-md-4 col-lg-2 col-xl-2">
+                    <h3 class="f-title">Our Services</h3>
+                    <ul>
+                                                <li><a class="text-capitalize" href="virtual-furniture">VIRTUAL FURNITURE</a></li>
+                                                <li><a class="text-capitalize" href="floor-plan">FLOOR PLAN</a></li>
+                                                <li><a class="text-capitalize" href="item-removal">DECLUTTERING</a></li>
+                                                <li><a class="text-capitalize" href="photo-enhancement">PHOTO ENHANCEMENT</a></li>
+                                                <li><a class="text-capitalize" href="panorama-stitching">PANORAMIC STITCHING</a></li>
+                                            </ul>
+                </div>
+                <div class="f-col col-sm-6 col-md-4 col-lg-3 col-xl-3">
+                    <h3 class="f-title">Our Flickr</h3>
+                    <div id="lightgallery-flickr" class="gallery-inner column-3 overflow-hidden"></div>
+                </div>
+
+
+                <div class="f-col facebook-box-wrapper col-sm-12 col-md-4 col-lg-4 col-xl-4">
+                    <div class="facebook-box">
+                        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFotoEditingService%2F&tabs&width=340&height=214&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="214" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="copyright">
+        <div class="container">
+            <div class="row">
+                <p class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">© we-edit.com Pty Ltd. All Rights Reserved.</p>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+                    <ul class="list-horizontal">
+                        <li><a href="../about">About</a></li>
+                        <li><a href="../blog">Blog</a></li>
+                        <li><a href="../contact">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+</footer>
+
+        <a href="virtual-furniture#site-body" id="back-top">
+            <i class="fa fa-long-arrow-up"></i>
+        </a>
+     </div>
+    <script>
+        var flickerConfigs = {
+            baseUrl: 'https://api.flickr.com/services/rest/',
+            apiKey: '3c73644788ac2d1aa5694a308c7c71e4',
+            photoSetID: '72157674021237807',
+        };
+    </script>
+    <script src="../assets/js/frontend.js"></script>
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130516051-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', "UA-130516051-1");
+    </script>
+    </body>
+</html>

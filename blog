@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+
+    <link rel="shortcut icon" href="favicon.png"  type="image/png" sizes="30x30" />
+    <link rel="icon" href="favicon.png" type="image/x-icon">
+    <meta name="description" content="We-Edit provides a high quality and dedicated Real Estate photo editing service platform for clients around the world. We have never stopped to improve and develop our full service solution to our photographers in line with the highest industry standards and customer expectations. We-Edit is equipped with a highly talented and enthusiastic team of photo editors who has reached an outstanding level in retouching techniques to guarantee the best quality and turnaround time">
+    <meta name="keywords" content="we-edit, real estate photo editing, retouching, day to dusk">
+    <meta property="og:url" content="http://we-edit.com.vn/blog" />
+    <meta property="og:site_name" content="Blog" />
+    <meta property="og:type"   content="website" />
+    <meta property="og:title"  content="Blog" />
+    <meta property="og:description"  content="We-Edit provides a high quality and dedicated Real Estate photo editing service platform for clients around the world. We have never stopped to improve and develop our full service solution to our photographers in line with the highest industry standards and customer expectations. We-Edit is equipped with a highly talented and enthusiastic team of photo editors who has reached an outstanding level in retouching techniques to guarantee the best quality and turnaround time" />
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="300">
+    <meta property="og:image:height" content="300">
+
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="daNZWyZMuKqR3RRk1xX8tM7PHpSJS8DTs3k1XhUs">
+
+    <title>Blog</title>
+
+    <!-- Styles -->
+    <link media="all" type="text/css" rel="stylesheet" href="assets/css/frontend/app.css">
+    </head>
+<body id="site-body" class="homepage offcanvas-init">
+    <div class="site-wrapper">
+        <div class="site-overlay"></div>
+        <div class="offcanvas-menu">
+    <div class="offcanvas-inner">
+        <div class="offcanvas-header">
+            <div class="float-left">
+                <span class="offcanvas-title">Menu</span>
+            </div>
+            <div class="float-right">
+                <div class="close-offcanvas">Close</div>
+            </div>
+        </div>
+        <div class="offcanvas-content">
+            <div class="main-menu">
+                <ul class="site-navigation-main">
+        <li class="menu-item  ">
+        <a href="index.html">home</a>
+            </li>
+        <li class="menu-item   has-submenu  ">
+        <a href="blog#">Products</a>
+                    <span class="caret"></span>
+            <ul class="submenu">
+                                <li class="menu-item"><a href="category/photo-enhancement">Photo Enhancement</a></li>
+                                <li class="menu-item"><a href="category/day-to-dusk">Day To Dusk</a></li>
+                                <li class="menu-item"><a href="category/virtual-furniture">Virtual Furniture</a></li>
+                                <li class="menu-item"><a href="category/item-removal">Decluttering</a></li>
+                                <li class="menu-item"><a href="category/floor-plan">Floor Plan</a></li>
+                                <li class="menu-item"><a href="category/panorama-stitching">Panoramic Stitching</a></li>
+                            </ul>
+            </li>
+        <li class="menu-item active ">
+        <a href="blog">blog</a>
+            </li>
+        <li class="menu-item  ">
+        <a href="about">about</a>
+            </li>
+        <li class="menu-item  ">
+        <a href="contact">contact</a>
+            </li>
+    </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<header class="site-header">
+    <nav class="site-navigation">
+        <div class="container">
+            <div class="row">
+                <a class="site-logo col-6 col-sm-6 col-md-6 col-lg-2" href="index.html">
+                    <img class="logo" src="statics/files/seeds/logo.png" alt="https://we-edit.com.vn">
+                </a>
+                <div class="main-menu col-6 col-sm-6 col-md-6 col-lg-10">
+                    <div id="offcanvas-toggler" class="d-lg-none d-xl-none">
+                        <div class="ico-menu">
+                            <div class="bar"></div>
+                            <div class="bar"></div>
+                            <div class="bar"></div>
+                        </div>
+                        <span>MENU</span>
+                    </div>
+                    <ul class="site-navigation-main d-none d-lg-block">
+        <li class="menu-item  ">
+        <a href="index.html">home</a>
+            </li>
+        <li class="menu-item   has-submenu  ">
+        <a href="blog#">Products</a>
+                    <span class="caret"></span>
+            <ul class="submenu">
+                                <li class="menu-item"><a href="category/photo-enhancement">Photo Enhancement</a></li>
+                                <li class="menu-item"><a href="category/day-to-dusk">Day To Dusk</a></li>
+                                <li class="menu-item"><a href="category/virtual-furniture">Virtual Furniture</a></li>
+                                <li class="menu-item"><a href="category/item-removal">Decluttering</a></li>
+                                <li class="menu-item"><a href="category/floor-plan">Floor Plan</a></li>
+                                <li class="menu-item"><a href="category/panorama-stitching">Panoramic Stitching</a></li>
+                            </ul>
+            </li>
+        <li class="menu-item active ">
+        <a href="blog">blog</a>
+            </li>
+        <li class="menu-item  ">
+        <a href="about">about</a>
+            </li>
+        <li class="menu-item  ">
+        <a href="contact">contact</a>
+            </li>
+    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+            <main class="site-main blog-wrapper">
+        <div class="page-header blog-bg-image" style="background-image: url(statics/files/1541987436-243401920-cFhFIaWcbwXovOAAfhgCtxjec4aLWge2gpmypRgv.jpeg);">
+            <div class="container">
+                <h2 class="page-header-title">Blog</h2>
+                <p class="page-header-desc">We-edit.com.vn's team and other experts offer their best advice, insights, and how-to's. All to help you improve the presentation of your property marketing.</p>
+            </div>
+        </div>
+        <div class="page-content">
+            <div class="container">
+                <div class="row blog-container">
+                                    </div>
+            </div>
+        </div>
+    </main>
+
+        <footer class="site-footer">
+    <section class="footer-main">
+        <div class="container">
+            <div class="row">
+                <div class="f-col f-logo-wrapper col-sm-12 col-md-12 col-lg-3 col-xl-3">
+                    <a href="index.html" class="f-logo">
+                        <img src="statics/files/seeds/logo.png" alt="we-edit.com" />
+                    </a>
+                    <ul class="social horizontal">
+                        <li><a href="https://www.facebook.com/FotoEditingService/" target="_blank"><i class="fa fa-facebook" aria-label="Facebook"></i></a></li>
+                        <li><a href="https://twitter.com" target="_blank"><i class="fa fa-twitter" aria-label="Twitter"></i></a></li>
+                        <li><a href="https://instagram.com" target="_blank"><i class="fa fa-instagram" aria-label="true"></i></a></li>
+                        <li><a href="https://youtube.com" target="_blank"><i class="fa fa-youtube" aria-label="YouTube"></i></a></li>
+                        <li class="last"><a href="https://linkedin.com" target="_blank"><i class="fa fa-linkedin-square" aria-label="Linkedin"></i></a></li>
+                    </ul>
+                </div>
+                <div class="f-col col-sm-6 col-md-4 col-lg-2 col-xl-2">
+                    <h3 class="f-title">Our Services</h3>
+                    <ul>
+                                                <li><a class="text-capitalize" href="category/virtual-furniture">VIRTUAL FURNITURE</a></li>
+                                                <li><a class="text-capitalize" href="category/floor-plan">FLOOR PLAN</a></li>
+                                                <li><a class="text-capitalize" href="category/item-removal">DECLUTTERING</a></li>
+                                                <li><a class="text-capitalize" href="category/photo-enhancement">PHOTO ENHANCEMENT</a></li>
+                                                <li><a class="text-capitalize" href="category/panorama-stitching">PANORAMIC STITCHING</a></li>
+                                            </ul>
+                </div>
+                <div class="f-col col-sm-6 col-md-4 col-lg-3 col-xl-3">
+                    <h3 class="f-title">Our Flickr</h3>
+                    <div id="lightgallery-flickr" class="gallery-inner column-3 overflow-hidden"></div>
+                </div>
+
+
+                <div class="f-col facebook-box-wrapper col-sm-12 col-md-4 col-lg-4 col-xl-4">
+                    <div class="facebook-box">
+                        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFotoEditingService%2F&tabs&width=340&height=214&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="214" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="copyright">
+        <div class="container">
+            <div class="row">
+                <p class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">© we-edit.com Pty Ltd. All Rights Reserved.</p>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+                    <ul class="list-horizontal">
+                        <li><a href="about">About</a></li>
+                        <li><a href="blog">Blog</a></li>
+                        <li><a href="contact">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+</footer>
+
+        <a href="blog#site-body" id="back-top">
+            <i class="fa fa-long-arrow-up"></i>
+        </a>
+     </div>
+    <script>
+        var flickerConfigs = {
+            baseUrl: 'https://api.flickr.com/services/rest/',
+            apiKey: '3c73644788ac2d1aa5694a308c7c71e4',
+            photoSetID: '72157674021237807',
+        };
+    </script>
+    <script src="assets/js/frontend.js"></script>
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130516051-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', "UA-130516051-1");
+    </script>
+    </body>
+</html>

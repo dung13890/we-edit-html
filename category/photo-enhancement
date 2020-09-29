@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+
+    <link rel="shortcut icon" href="https://we-edit.com.vn/category/favicon.png"  type="image/png" sizes="30x30" />
+    <link rel="icon" href="../favicon.png" type="image/x-icon">
+    <meta name="description" content="20 steps enhancement editing will add a full dramatic range to your photo to create an image more like what your eyes see than what the camera captures.">
+    <meta name="keywords" content="we edit, Real Estate photo editing, Retouching">
+    <meta property="og:url" content="http://we-edit.com.vn/category/photo-enhancement" />
+    <meta property="og:site_name" content="We edit - Photo Enhancement" />
+    <meta property="og:type"   content="website" />
+    <meta property="og:title"  content="We edit - Photo Enhancement" />
+    <meta property="og:description"  content="20 steps enhancement editing will add a full dramatic range to your photo to create an image more like what your eyes see than what the camera captures." />
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="300">
+    <meta property="og:image:height" content="300">
+
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="daNZWyZMuKqR3RRk1xX8tM7PHpSJS8DTs3k1XhUs">
+
+    <title>We edit - Photo Enhancement</title>
+
+    <!-- Styles -->
+    <link media="all" type="text/css" rel="stylesheet" href="../assets/css/frontend/app.css">
+    </head>
+<body id="site-body" class="homepage offcanvas-init">
+    <div class="site-wrapper">
+        <div class="site-overlay"></div>
+        <div class="offcanvas-menu">
+    <div class="offcanvas-inner">
+        <div class="offcanvas-header">
+            <div class="float-left">
+                <span class="offcanvas-title">Menu</span>
+            </div>
+            <div class="float-right">
+                <div class="close-offcanvas">Close</div>
+            </div>
+        </div>
+        <div class="offcanvas-content">
+            <div class="main-menu">
+                <ul class="site-navigation-main">
+        <li class="menu-item  ">
+        <a href="../index.html">home</a>
+            </li>
+        <li class="menu-item active  has-submenu  ">
+        <a href="photo-enhancement#">Products</a>
+                    <span class="caret"></span>
+            <ul class="submenu">
+                                <li class="menu-item"><a href="photo-enhancement">Photo Enhancement</a></li>
+                                <li class="menu-item"><a href="day-to-dusk">Day To Dusk</a></li>
+                                <li class="menu-item"><a href="virtual-furniture">Virtual Furniture</a></li>
+                                <li class="menu-item"><a href="item-removal">Decluttering</a></li>
+                                <li class="menu-item"><a href="floor-plan">Floor Plan</a></li>
+                                <li class="menu-item"><a href="panorama-stitching">Panoramic Stitching</a></li>
+                            </ul>
+            </li>
+        <li class="menu-item  ">
+        <a href="../blog">blog</a>
+            </li>
+        <li class="menu-item  ">
+        <a href="../about">about</a>
+            </li>
+        <li class="menu-item  ">
+        <a href="../contact">contact</a>
+            </li>
+    </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<header class="site-header">
+    <nav class="site-navigation">
+        <div class="container">
+            <div class="row">
+                <a class="site-logo col-6 col-sm-6 col-md-6 col-lg-2" href="../index.html">
+                    <img class="logo" src="../statics/files/seeds/logo.png" alt="https://we-edit.com.vn">
+                </a>
+                <div class="main-menu col-6 col-sm-6 col-md-6 col-lg-10">
+                    <div id="offcanvas-toggler" class="d-lg-none d-xl-none">
+                        <div class="ico-menu">
+                            <div class="bar"></div>
+                            <div class="bar"></div>
+                            <div class="bar"></div>
+                        </div>
+                        <span>MENU</span>
+                    </div>
+                    <ul class="site-navigation-main d-none d-lg-block">
+        <li class="menu-item  ">
+        <a href="../index.html">home</a>
+            </li>
+        <li class="menu-item active  has-submenu  ">
+        <a href="photo-enhancement#">Products</a>
+                    <span class="caret"></span>
+            <ul class="submenu">
+                                <li class="menu-item"><a href="photo-enhancement">Photo Enhancement</a></li>
+                                <li class="menu-item"><a href="day-to-dusk">Day To Dusk</a></li>
+                                <li class="menu-item"><a href="virtual-furniture">Virtual Furniture</a></li>
+                                <li class="menu-item"><a href="item-removal">Decluttering</a></li>
+                                <li class="menu-item"><a href="floor-plan">Floor Plan</a></li>
+                                <li class="menu-item"><a href="panorama-stitching">Panoramic Stitching</a></li>
+                            </ul>
+            </li>
+        <li class="menu-item  ">
+        <a href="../blog">blog</a>
+            </li>
+        <li class="menu-item  ">
+        <a href="../about">about</a>
+            </li>
+        <li class="menu-item  ">
+        <a href="../contact">contact</a>
+            </li>
+    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+        <main class="site-main bg-grey">
+    <section class="section-wrapper slider-wrapper py-0">
+    <div class="flexslider control-paging-vertical control-paging-large flexslider-hidden">
+        <ul class="slides">
+                                            <li>
+                    <div class="slide-item" href="#">
+                        <div class="img-wrapper">
+                            <img class="banner" src="../statics/files/1543328408-157799823-GDvUeIy6s3D1Azla0JLg4RaeQDyqgjuqAzVcPUem.jpeg" alt="Outdoor Editing" />
+                        </div>
+                        <div class="slide-item-text container shadow-lg crazy-style-1">
+                            <h1 class="animate_left_to_right">Outdoor Editing</h1>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="slide-item" href="#">
+                        <div class="img-wrapper">
+                            <img class="banner" src="../statics/files/1543328031-1478366118-uCXpGYJoqtrRJohNhgCvxZvsp8UrvDaLKxlqE4xC.jpeg" alt="Standard blending" />
+                        </div>
+                        <div class="slide-item-text container shadow-lg crazy-style-1">
+                            <h1 class="animate_left_to_right">Standard blending</h1>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="slide-item" href="#">
+                        <div class="img-wrapper">
+                            <img class="banner" src="../statics/files/1541996429-175707520-ZpfR7HmLZT7p6S32fK5vSmX1sZ6ooAot7yc3GZtO.jpeg" alt="Manual blending" />
+                        </div>
+                        <div class="slide-item-text container shadow-lg crazy-style-1">
+                            <h1 class="animate_left_to_right">Manual blending</h1>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="slide-item" href="#">
+                        <div class="img-wrapper">
+                            <img class="banner" src="../statics/files/1542632675-1020013944-CPQyoX2cBlDm3Oe8QLE0FIA6mNZMFZXUb5a2y1XL.jpeg" alt="Advance Twilight Editing" />
+                        </div>
+                        <div class="slide-item-text container shadow-lg crazy-style-1">
+                            <h1 class="animate_left_to_right">Advance Twilight Editing</h1>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="slide-item" href="#">
+                        <div class="img-wrapper">
+                            <img class="banner" src="../statics/files/1543327525-1373216439-EmvyBaH1KpMzJKIqUlEtz9cDdVPIHcmieuipkUQ3.jpeg" alt="Photo Enhancement" />
+                        </div>
+                        <div class="slide-item-text container shadow-lg crazy-style-1">
+                            <h1 class="animate_left_to_right">Photo Enhancement</h1>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="slide-item" href="#">
+                        <div class="img-wrapper">
+                            <img class="banner" src="../statics/files/1543327165-1087130612-cl1xhsBEa6J2HKQpsLD8cfeAPTxFC5UuQpfhaqVe.jpeg" alt="Premium blending" />
+                        </div>
+                        <div class="slide-item-text container shadow-lg crazy-style-1">
+                            <h1 class="animate_left_to_right">Premium blending</h1>
+                        </div>
+                    </div>
+                </li>
+                                    </ul>
+    </div>
+</section>
+    <section class="section-wrapper introduction-wrapper">
+        <div class="container">
+            <div class="section-title text-center">
+                <h1 class="heading">Editing Steps</h1>
+            </div>
+            <div class="section-content text-center">
+                <div class="section-content-wrapper">
+                    <p style="text-align: justify;"><br></p><div class="row"><div class="col-md-6 col-sm-6 col-xs-6 column"><div class="ge-content ge-content-type-summernote" data-ge-content-type="summernote"><p style="text-align: justify; "><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style><span style="font-size: 24px; font-family: Arial;" data-sheets-value="{" 1":2,"2":"white="" balancing"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="color: rgb(206, 0, 0);">01</span>.White balancing</span></p><p style="text-align: justify;"><span style="font-size: 14pt; font-family: Arial;" data-sheets-value="{" 1":2,"2":"white="" balancing"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><span style="font-size: 24px;" data-sheets-value="{" 1":2,"2":"lens="" correction"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="color: rgb(206, 0, 0);">02</span>.Lens Correction</span></span></p><p style="text-align: justify;"><span style="font-size: 14pt; font-family: Arial;" data-sheets-value="{" 1":2,"2":"white="" balancing"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"lens="" correction"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><span style="font-size: 24px;" data-sheets-value="{" 1":2,"2":"remove="" chromatic="" aberration"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="color: rgb(206, 0, 0);">03</span>.Remove Chromatic Aberration</span></span></span></p><p style="text-align: justify;"><span style="font-size: 14pt; font-family: Arial;" data-sheets-value="{" 1":2,"2":"white="" balancing"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"lens="" correction"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"remove="" chromatic="" aberration"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><span style="font-size: 24px;" data-sheets-value="{" 1":2,"2":"manual="" blending"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="color: rgb(206, 0, 0);">04</span>.Manual blending</span></span></span></span></p><p style="text-align: justify;"><span style="font-size: 14pt; font-family: Arial;" data-sheets-value="{" 1":2,"2":"white="" balancing"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"lens="" correction"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"remove="" chromatic="" aberration"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"manual="" blending"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><span style="font-size: 24px;" data-sheets-value="{" 1":2,"2":"tone="" adjustment"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="color: rgb(206, 0, 0);">05</span>.Tone adjustment</span></span></span></span></span></p><p style="text-align: justify;"><span style="font-size: 14pt; font-family: Arial;" data-sheets-value="{" 1":2,"2":"white="" balancing"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"lens="" correction"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"remove="" chromatic="" aberration"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"manual="" blending"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"tone="" adjustment"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><span style="font-size: 24px;" data-sheets-value="{" 1":2,"2":"brightness="" &="" contrast="" adjustment"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="color: rgb(206, 0, 0);">06</span>.Brightness & contrast adjustment</span></span></span></span></span></span></p><p style="text-align: justify;"><span style="font-size: 14pt; font-family: Arial;" data-sheets-value="{" 1":2,"2":"white="" balancing"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"lens="" correction"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"remove="" chromatic="" aberration"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"manual="" blending"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"tone="" adjustment"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"brightness="" &="" contrast="" adjustment"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><span style="font-size: 24px;" data-sheets-value="{" 1":2,"2":"indoor="" window="" replacement"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="color: rgb(206, 0, 0);">07</span>.indoor window replacement</span></span></span></span></span></span></span></p><p style="text-align: justify;"><span style="font-size: 14pt; font-family: Arial;" data-sheets-value="{" 1":2,"2":"white="" balancing"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"lens="" correction"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"remove="" chromatic="" aberration"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"manual="" blending"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"tone="" adjustment"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"brightness="" &="" contrast="" adjustment"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"indoor="" window="" replacement"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><span style="font-size: 24px;" data-sheets-value="{" 1":2,"2":"outdoor="" sky="" replacement"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="color: rgb(206, 0, 0);">08</span>.Outdoor sky replacement</span></span></span></span></span></span></span></span></p><p style="text-align: justify;"><span style="font-size: 14pt; font-family: Arial;" data-sheets-value="{" 1":2,"2":"white="" balancing"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"lens="" correction"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"remove="" chromatic="" aberration"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"manual="" blending"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"tone="" adjustment"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"brightness="" &="" contrast="" adjustment"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"indoor="" window="" replacement"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"outdoor="" sky="" replacement"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><span style="font-size: 24px;" data-sheets-value="{" 1":2,"2":"lawn="" enhancement="" –="" repair="" or="" replace"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="color: rgb(206, 0, 0);">09</span>.Lawn enhancement – repair or replace</span></span></span></span></span></span></span></span></span></p><p></p><div style="text-align: justify;"><span style="font-size: 24px; font-family: Arial;"><span style="color: rgb(206, 0, 0);">10</span>.Remove pool cleaners from water</span></div><div style="text-align: justify;"><br></div><p></p></div></div><div class="col-md-6 col-sm-6 col-xs-6 column"><div class="ge-content ge-content-type-summernote" data-ge-content-type="summernote"><p style="text-align: justify;"><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><span style="font-size: 24px; font-family: Arial;" data-sheets-value="{" 1":2,"2":"tv="" screen="" replacement"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="color: rgb(206, 0, 0);">11</span>.TV screen replacement</span></p><p style="text-align: justify; "><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style><span style="font-size: 24px; font-family: Arial;" data-sheets-value="{" 1":2,"2":"12.dust="" spot="" removal"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="color: rgb(206, 0, 0);">12</span>.Dust spot removal</span><br></p><p style="text-align: justify;"><span style="font-size: 14pt; font-family: Arial;" data-sheets-value="{" 1":2,"2":"tv="" screen="" replacement"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"dust="" spot="" removal"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><span style="font-size: 24px;" data-sheets-value="{" 1":2,"2":"flash="" reflection="" removal"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="color: rgb(206, 0, 0);">13</span>.Flash reflection removal</span></span></span></p><p style="text-align: justify;"><span style="font-size: 14pt; font-family: Arial;" data-sheets-value="{" 1":2,"2":"tv="" screen="" replacement"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"dust="" spot="" removal"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"flash="" reflection="" removal"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><span style="font-size: 24px;" data-sheets-value="{" 1":2,"2":"add="" fire="" to="" fireplaces"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="color: rgb(206, 0, 0);">14</span>.Add fire to fireplaces</span></span></span></span></p><p style="text-align: justify; "><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style><span style="font-size: 24px; font-family: Arial;" data-sheets-value="{" 1":2,"2":"15.remove="" photographer’s="" reflection"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="color: rgb(206, 0, 0);">15</span>.Remove photographer’s reflection</span><br></p><p style="text-align: justify;"><span style="font-size: 14pt; font-family: Arial;" data-sheets-value="{" 1":2,"2":"tv="" screen="" replacement"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"dust="" spot="" removal"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"flash="" reflection="" removal"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"add="" fire="" to="" fireplaces"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"remove="" photographer’s="" reflection"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><span style="font-size: 24px;" data-sheets-value="{" 1":2,"2":"remove="" minor="" blemishes"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="color: rgb(206, 0, 0);">16</span>.Remove minor blemishes</span></span></span></span></span></span></p><p style="text-align: justify;"><span style="font-size: 14pt; font-family: Arial;" data-sheets-value="{" 1":2,"2":"tv="" screen="" replacement"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"dust="" spot="" removal"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"flash="" reflection="" removal"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"add="" fire="" to="" fireplaces"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"remove="" photographer’s="" reflection"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"remove="" minor="" blemishes"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><span style="font-size: 24px;" data-sheets-value="{" 1":2,"2":"image="" sharpening"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="color: rgb(206, 0, 0);">17</span>.Image sharpening</span></span></span></span></span></span></span></p><p style="text-align: justify;"><span style="font-size: 14pt; font-family: Arial;" data-sheets-value="{" 1":2,"2":"tv="" screen="" replacement"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"dust="" spot="" removal"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"flash="" reflection="" removal"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"add="" fire="" to="" fireplaces"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"remove="" photographer’s="" reflection"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"remove="" minor="" blemishes"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"image="" sharpening"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><span style="font-size: 24px;" data-sheets-value="{" 1":2,"2":"vertical="" &="" horizontal="" straightening"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="color: rgb(206, 0, 0);">18</span>.Vertical & horizontal straightening</span></span></span></span></span></span></span></span></p><p style="text-align: justify;"><span style="font-size: 14pt; font-family: Arial;" data-sheets-value="{" 1":2,"2":"tv="" screen="" replacement"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"dust="" spot="" removal"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"flash="" reflection="" removal"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"add="" fire="" to="" fireplaces"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"remove="" photographer’s="" reflection"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"remove="" minor="" blemishes"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"image="" sharpening"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="font-size: 14pt;" data-sheets-value="{" 1":2,"2":"vertical="" &="" horizontal="" straightening"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><style type="text/css"><span style="font-size: 24px;"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></span></style><span style="font-size: 24px;" data-sheets-value="{" 1":2,"2":"noise="" reduction"}"="" data-sheets-userformat="{" 2":8705,"3":{"1":0},"12":0,"16":14}"=""><span style="color: rgb(206, 0, 0);">19</span>.Noise reduction</span></span></span></span></span></span></span></span></span></p><p></p><div style="text-align: justify;"><span style="font-size: 24px; font-family: Arial;"><span style="color: rgb(206, 0, 0);">20</span>.Resizing,cropping</span></div></div></div></div><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style><style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="image-library-wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+                <div class="library-intro">
+                    <h2 class="heading">Our gallery products 3</h2>
+                    <p>Our team can add furniture to real estate photography to show potential buyers just how versatile the space is.</p>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8">
+                <div class="library-gallery">
+                    <div class="library-gallery-inner">
+                        <div class="arrow">
+                            <span>Click here</span>
+                            <div class="curve"></div>
+                            <div class="point"></div>
+                        </div>
+                        <ul id="lightgallery" class="list-unstyled row">
+                                                        <li class="lightimage-0 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543413248-324469253-KASlnqAu56YiUbBBOF0QSYvEM44FIt4WGUTpgotC.jpeg 375, https://we-edit.com.vn/statics/files/1543413248-324469253-KASlnqAu56YiUbBBOF0QSYvEM44FIt4WGUTpgotC.jpeg 480, https://we-edit.com.vn/statics/files/1543413248-324469253-KASlnqAu56YiUbBBOF0QSYvEM44FIt4WGUTpgotC.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543413248-324469253-KASlnqAu56YiUbBBOF0QSYvEM44FIt4WGUTpgotC.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543413248-324469253-KASlnqAu56YiUbBBOF0QSYvEM44FIt4WGUTpgotC.jpeg" alt="1543413248-324469253-KASlnqAu56YiUbBBOF0QSYvEM44FIt4WGUTpgotC.jpeg">
+                                                                        <div class="library-gallery-poster">
+                                        <img src="../statics/files/seeds/zoom.png">
+                                    </div>
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-1 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543413246-767123164-8QB7QUj5hzZJfh44rcT2aXYtmRtRofc88XygTFI9.jpeg 375, https://we-edit.com.vn/statics/files/1543413246-767123164-8QB7QUj5hzZJfh44rcT2aXYtmRtRofc88XygTFI9.jpeg 480, https://we-edit.com.vn/statics/files/1543413246-767123164-8QB7QUj5hzZJfh44rcT2aXYtmRtRofc88XygTFI9.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543413246-767123164-8QB7QUj5hzZJfh44rcT2aXYtmRtRofc88XygTFI9.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543413246-767123164-8QB7QUj5hzZJfh44rcT2aXYtmRtRofc88XygTFI9.jpeg" alt="1543413246-767123164-8QB7QUj5hzZJfh44rcT2aXYtmRtRofc88XygTFI9.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-2 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543334083-785742072-08XRGmyaVFl6JOXAtSLYxXFnS57gYxz5Bz3dxauh.jpeg 375, https://we-edit.com.vn/statics/files/1543334083-785742072-08XRGmyaVFl6JOXAtSLYxXFnS57gYxz5Bz3dxauh.jpeg 480, https://we-edit.com.vn/statics/files/1543334083-785742072-08XRGmyaVFl6JOXAtSLYxXFnS57gYxz5Bz3dxauh.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543334083-785742072-08XRGmyaVFl6JOXAtSLYxXFnS57gYxz5Bz3dxauh.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543334083-785742072-08XRGmyaVFl6JOXAtSLYxXFnS57gYxz5Bz3dxauh.jpeg" alt="1543334083-785742072-08XRGmyaVFl6JOXAtSLYxXFnS57gYxz5Bz3dxauh.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-3 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543334083-435415365-4MgErRPO3bNot3V9AgfNILqAGdRMSPoXIIcyyWIR.jpeg 375, https://we-edit.com.vn/statics/files/1543334083-435415365-4MgErRPO3bNot3V9AgfNILqAGdRMSPoXIIcyyWIR.jpeg 480, https://we-edit.com.vn/statics/files/1543334083-435415365-4MgErRPO3bNot3V9AgfNILqAGdRMSPoXIIcyyWIR.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543334083-435415365-4MgErRPO3bNot3V9AgfNILqAGdRMSPoXIIcyyWIR.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543334083-435415365-4MgErRPO3bNot3V9AgfNILqAGdRMSPoXIIcyyWIR.jpeg" alt="1543334083-435415365-4MgErRPO3bNot3V9AgfNILqAGdRMSPoXIIcyyWIR.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-4 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543412935-1158306294-bmHIR87Rlk82MJUNPdrK6oTYfV2RKpziqRmiYJJL.jpeg 375, https://we-edit.com.vn/statics/files/1543412935-1158306294-bmHIR87Rlk82MJUNPdrK6oTYfV2RKpziqRmiYJJL.jpeg 480, https://we-edit.com.vn/statics/files/1543412935-1158306294-bmHIR87Rlk82MJUNPdrK6oTYfV2RKpziqRmiYJJL.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543412935-1158306294-bmHIR87Rlk82MJUNPdrK6oTYfV2RKpziqRmiYJJL.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543412935-1158306294-bmHIR87Rlk82MJUNPdrK6oTYfV2RKpziqRmiYJJL.jpeg" alt="1543412935-1158306294-bmHIR87Rlk82MJUNPdrK6oTYfV2RKpziqRmiYJJL.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-5 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543412935-1095610708-nAp3kMakJQgIBPhyNGoSkyPDCpmBeew3TwK8TYaC.jpeg 375, https://we-edit.com.vn/statics/files/1543412935-1095610708-nAp3kMakJQgIBPhyNGoSkyPDCpmBeew3TwK8TYaC.jpeg 480, https://we-edit.com.vn/statics/files/1543412935-1095610708-nAp3kMakJQgIBPhyNGoSkyPDCpmBeew3TwK8TYaC.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543412935-1095610708-nAp3kMakJQgIBPhyNGoSkyPDCpmBeew3TwK8TYaC.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543412935-1095610708-nAp3kMakJQgIBPhyNGoSkyPDCpmBeew3TwK8TYaC.jpeg" alt="1543412935-1095610708-nAp3kMakJQgIBPhyNGoSkyPDCpmBeew3TwK8TYaC.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-6 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543413128-978368884-RBaGKvVSykiVphJhXYs3lHO41jzh93PSiKiFB8ab.jpeg 375, https://we-edit.com.vn/statics/files/1543413128-978368884-RBaGKvVSykiVphJhXYs3lHO41jzh93PSiKiFB8ab.jpeg 480, https://we-edit.com.vn/statics/files/1543413128-978368884-RBaGKvVSykiVphJhXYs3lHO41jzh93PSiKiFB8ab.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543413128-978368884-RBaGKvVSykiVphJhXYs3lHO41jzh93PSiKiFB8ab.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543413128-978368884-RBaGKvVSykiVphJhXYs3lHO41jzh93PSiKiFB8ab.jpeg" alt="1543413128-978368884-RBaGKvVSykiVphJhXYs3lHO41jzh93PSiKiFB8ab.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-7 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543413128-2139277980-1yKf23W7VYW0G0dCqPFzQpJKXKMxph4vKKWVO0nF.jpeg 375, https://we-edit.com.vn/statics/files/1543413128-2139277980-1yKf23W7VYW0G0dCqPFzQpJKXKMxph4vKKWVO0nF.jpeg 480, https://we-edit.com.vn/statics/files/1543413128-2139277980-1yKf23W7VYW0G0dCqPFzQpJKXKMxph4vKKWVO0nF.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543413128-2139277980-1yKf23W7VYW0G0dCqPFzQpJKXKMxph4vKKWVO0nF.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543413128-2139277980-1yKf23W7VYW0G0dCqPFzQpJKXKMxph4vKKWVO0nF.jpeg" alt="1543413128-2139277980-1yKf23W7VYW0G0dCqPFzQpJKXKMxph4vKKWVO0nF.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-8 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543334204-921180799-Zjq0oJql5eHzsJSsl65dAd2rBPUyOWGmnw4DFczR.jpeg 375, https://we-edit.com.vn/statics/files/1543334204-921180799-Zjq0oJql5eHzsJSsl65dAd2rBPUyOWGmnw4DFczR.jpeg 480, https://we-edit.com.vn/statics/files/1543334204-921180799-Zjq0oJql5eHzsJSsl65dAd2rBPUyOWGmnw4DFczR.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543334204-921180799-Zjq0oJql5eHzsJSsl65dAd2rBPUyOWGmnw4DFczR.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543334204-921180799-Zjq0oJql5eHzsJSsl65dAd2rBPUyOWGmnw4DFczR.jpeg" alt="1543334204-921180799-Zjq0oJql5eHzsJSsl65dAd2rBPUyOWGmnw4DFczR.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-9 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543334204-1092564706-VBi4RosmGqdsBx9minmDNX8szQRBqs7q13V2kaLU.jpeg 375, https://we-edit.com.vn/statics/files/1543334204-1092564706-VBi4RosmGqdsBx9minmDNX8szQRBqs7q13V2kaLU.jpeg 480, https://we-edit.com.vn/statics/files/1543334204-1092564706-VBi4RosmGqdsBx9minmDNX8szQRBqs7q13V2kaLU.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543334204-1092564706-VBi4RosmGqdsBx9minmDNX8szQRBqs7q13V2kaLU.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543334204-1092564706-VBi4RosmGqdsBx9minmDNX8szQRBqs7q13V2kaLU.jpeg" alt="1543334204-1092564706-VBi4RosmGqdsBx9minmDNX8szQRBqs7q13V2kaLU.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-10 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543334296-1247090024-IWNLun12wi8rDupYGQ23cbWknZ5gHwGQSdC5aIs9.jpeg 375, https://we-edit.com.vn/statics/files/1543334296-1247090024-IWNLun12wi8rDupYGQ23cbWknZ5gHwGQSdC5aIs9.jpeg 480, https://we-edit.com.vn/statics/files/1543334296-1247090024-IWNLun12wi8rDupYGQ23cbWknZ5gHwGQSdC5aIs9.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543334296-1247090024-IWNLun12wi8rDupYGQ23cbWknZ5gHwGQSdC5aIs9.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543334296-1247090024-IWNLun12wi8rDupYGQ23cbWknZ5gHwGQSdC5aIs9.jpeg" alt="1543334296-1247090024-IWNLun12wi8rDupYGQ23cbWknZ5gHwGQSdC5aIs9.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-11 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543334297-483883743-MsMOQEWkzn8Kl9aby2OSQN1ASsfXoIZr0xtCReT1.jpeg 375, https://we-edit.com.vn/statics/files/1543334297-483883743-MsMOQEWkzn8Kl9aby2OSQN1ASsfXoIZr0xtCReT1.jpeg 480, https://we-edit.com.vn/statics/files/1543334297-483883743-MsMOQEWkzn8Kl9aby2OSQN1ASsfXoIZr0xtCReT1.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543334297-483883743-MsMOQEWkzn8Kl9aby2OSQN1ASsfXoIZr0xtCReT1.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543334297-483883743-MsMOQEWkzn8Kl9aby2OSQN1ASsfXoIZr0xtCReT1.jpeg" alt="1543334297-483883743-MsMOQEWkzn8Kl9aby2OSQN1ASsfXoIZr0xtCReT1.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-12 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543334353-1042346494-ibGZHw24SQmBvKCApXijk1JuySDXGc7oei0gNV7c.jpeg 375, https://we-edit.com.vn/statics/files/1543334353-1042346494-ibGZHw24SQmBvKCApXijk1JuySDXGc7oei0gNV7c.jpeg 480, https://we-edit.com.vn/statics/files/1543334353-1042346494-ibGZHw24SQmBvKCApXijk1JuySDXGc7oei0gNV7c.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543334353-1042346494-ibGZHw24SQmBvKCApXijk1JuySDXGc7oei0gNV7c.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543334353-1042346494-ibGZHw24SQmBvKCApXijk1JuySDXGc7oei0gNV7c.jpeg" alt="1543334353-1042346494-ibGZHw24SQmBvKCApXijk1JuySDXGc7oei0gNV7c.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-13 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543334353-64018512-GDk7UntN5Yo0kC2ZaYJj2TKchtsQfhlBEUYR3ahI.jpeg 375, https://we-edit.com.vn/statics/files/1543334353-64018512-GDk7UntN5Yo0kC2ZaYJj2TKchtsQfhlBEUYR3ahI.jpeg 480, https://we-edit.com.vn/statics/files/1543334353-64018512-GDk7UntN5Yo0kC2ZaYJj2TKchtsQfhlBEUYR3ahI.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543334353-64018512-GDk7UntN5Yo0kC2ZaYJj2TKchtsQfhlBEUYR3ahI.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543334353-64018512-GDk7UntN5Yo0kC2ZaYJj2TKchtsQfhlBEUYR3ahI.jpeg" alt="1543334353-64018512-GDk7UntN5Yo0kC2ZaYJj2TKchtsQfhlBEUYR3ahI.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-14 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543334379-1064452201-ysLMCQ94d5ABqPFV7m6u4hMeZ1bETfyXJCuYwsZZ.jpeg 375, https://we-edit.com.vn/statics/files/1543334379-1064452201-ysLMCQ94d5ABqPFV7m6u4hMeZ1bETfyXJCuYwsZZ.jpeg 480, https://we-edit.com.vn/statics/files/1543334379-1064452201-ysLMCQ94d5ABqPFV7m6u4hMeZ1bETfyXJCuYwsZZ.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543334379-1064452201-ysLMCQ94d5ABqPFV7m6u4hMeZ1bETfyXJCuYwsZZ.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543334379-1064452201-ysLMCQ94d5ABqPFV7m6u4hMeZ1bETfyXJCuYwsZZ.jpeg" alt="1543334379-1064452201-ysLMCQ94d5ABqPFV7m6u4hMeZ1bETfyXJCuYwsZZ.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-15 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543334378-140505905-LE4JLHYZd4hZttCWTnJtQds3SmEUrvdah92WGtIN.jpeg 375, https://we-edit.com.vn/statics/files/1543334378-140505905-LE4JLHYZd4hZttCWTnJtQds3SmEUrvdah92WGtIN.jpeg 480, https://we-edit.com.vn/statics/files/1543334378-140505905-LE4JLHYZd4hZttCWTnJtQds3SmEUrvdah92WGtIN.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543334378-140505905-LE4JLHYZd4hZttCWTnJtQds3SmEUrvdah92WGtIN.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543334378-140505905-LE4JLHYZd4hZttCWTnJtQds3SmEUrvdah92WGtIN.jpeg" alt="1543334378-140505905-LE4JLHYZd4hZttCWTnJtQds3SmEUrvdah92WGtIN.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-16 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543334482-1706598611-KKsHxPn728P8Wl8ivuyzRCJCCfF0HYViG3nBeWBG.jpeg 375, https://we-edit.com.vn/statics/files/1543334482-1706598611-KKsHxPn728P8Wl8ivuyzRCJCCfF0HYViG3nBeWBG.jpeg 480, https://we-edit.com.vn/statics/files/1543334482-1706598611-KKsHxPn728P8Wl8ivuyzRCJCCfF0HYViG3nBeWBG.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543334482-1706598611-KKsHxPn728P8Wl8ivuyzRCJCCfF0HYViG3nBeWBG.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543334482-1706598611-KKsHxPn728P8Wl8ivuyzRCJCCfF0HYViG3nBeWBG.jpeg" alt="1543334482-1706598611-KKsHxPn728P8Wl8ivuyzRCJCCfF0HYViG3nBeWBG.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-17 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543334482-1921587871-UmWc1x0xC5hclguoRurZE4KoCjmm0KOzEfT3PTeY.jpeg 375, https://we-edit.com.vn/statics/files/1543334482-1921587871-UmWc1x0xC5hclguoRurZE4KoCjmm0KOzEfT3PTeY.jpeg 480, https://we-edit.com.vn/statics/files/1543334482-1921587871-UmWc1x0xC5hclguoRurZE4KoCjmm0KOzEfT3PTeY.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543334482-1921587871-UmWc1x0xC5hclguoRurZE4KoCjmm0KOzEfT3PTeY.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543334482-1921587871-UmWc1x0xC5hclguoRurZE4KoCjmm0KOzEfT3PTeY.jpeg" alt="1543334482-1921587871-UmWc1x0xC5hclguoRurZE4KoCjmm0KOzEfT3PTeY.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-18 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543413194-790697160-3rO4FGbaW2RpKiKDGKjkcOSZsXCyCTIaHyUVx9vv.jpeg 375, https://we-edit.com.vn/statics/files/1543413194-790697160-3rO4FGbaW2RpKiKDGKjkcOSZsXCyCTIaHyUVx9vv.jpeg 480, https://we-edit.com.vn/statics/files/1543413194-790697160-3rO4FGbaW2RpKiKDGKjkcOSZsXCyCTIaHyUVx9vv.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543413194-790697160-3rO4FGbaW2RpKiKDGKjkcOSZsXCyCTIaHyUVx9vv.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543413194-790697160-3rO4FGbaW2RpKiKDGKjkcOSZsXCyCTIaHyUVx9vv.jpeg" alt="1543413194-790697160-3rO4FGbaW2RpKiKDGKjkcOSZsXCyCTIaHyUVx9vv.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-19 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543413192-1872769293-n1W7PnrtGIzv9ikcUSBkRxBz6xJnAg1TxJqbu8KC.jpeg 375, https://we-edit.com.vn/statics/files/1543413192-1872769293-n1W7PnrtGIzv9ikcUSBkRxBz6xJnAg1TxJqbu8KC.jpeg 480, https://we-edit.com.vn/statics/files/1543413192-1872769293-n1W7PnrtGIzv9ikcUSBkRxBz6xJnAg1TxJqbu8KC.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543413192-1872769293-n1W7PnrtGIzv9ikcUSBkRxBz6xJnAg1TxJqbu8KC.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543413192-1872769293-n1W7PnrtGIzv9ikcUSBkRxBz6xJnAg1TxJqbu8KC.jpeg" alt="1543413192-1872769293-n1W7PnrtGIzv9ikcUSBkRxBz6xJnAg1TxJqbu8KC.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-20 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543413334-431850577-EOglwRj5Whj8pqrsHk58SEZv3cBV57AhQxnmzaRJ.jpeg 375, https://we-edit.com.vn/statics/files/1543413334-431850577-EOglwRj5Whj8pqrsHk58SEZv3cBV57AhQxnmzaRJ.jpeg 480, https://we-edit.com.vn/statics/files/1543413334-431850577-EOglwRj5Whj8pqrsHk58SEZv3cBV57AhQxnmzaRJ.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543413334-431850577-EOglwRj5Whj8pqrsHk58SEZv3cBV57AhQxnmzaRJ.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543413334-431850577-EOglwRj5Whj8pqrsHk58SEZv3cBV57AhQxnmzaRJ.jpeg" alt="1543413334-431850577-EOglwRj5Whj8pqrsHk58SEZv3cBV57AhQxnmzaRJ.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-21 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543413334-537315288-80P1W83euYUyQxDy0M8TwYJYFDnbWiATi6oF6cEa.jpeg 375, https://we-edit.com.vn/statics/files/1543413334-537315288-80P1W83euYUyQxDy0M8TwYJYFDnbWiATi6oF6cEa.jpeg 480, https://we-edit.com.vn/statics/files/1543413334-537315288-80P1W83euYUyQxDy0M8TwYJYFDnbWiATi6oF6cEa.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543413334-537315288-80P1W83euYUyQxDy0M8TwYJYFDnbWiATi6oF6cEa.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543413334-537315288-80P1W83euYUyQxDy0M8TwYJYFDnbWiATi6oF6cEa.jpeg" alt="1543413334-537315288-80P1W83euYUyQxDy0M8TwYJYFDnbWiATi6oF6cEa.jpeg">
+                                                                    </a>
+                            </li>
+                                                        <li class="lightimage-22 col-xs-12" data-responsive="https://we-edit.com.vn/statics/files/1543413484-427328358-gptE7wsbkPJGPRCDDk76Gbpi8wGJrLiAuFd1oz5p.jpeg 375, https://we-edit.com.vn/statics/files/1543413484-427328358-gptE7wsbkPJGPRCDDk76Gbpi8wGJrLiAuFd1oz5p.jpeg 480, https://we-edit.com.vn/statics/files/1543413484-427328358-gptE7wsbkPJGPRCDDk76Gbpi8wGJrLiAuFd1oz5p.jpeg 800" data-src="https://we-edit.com.vn/statics/files/1543413484-427328358-gptE7wsbkPJGPRCDDk76Gbpi8wGJrLiAuFd1oz5p.jpeg">
+                                <a href="javascript:void(0);">
+                                    <img class="img-responsive" src="../statics/files/1543413484-427328358-gptE7wsbkPJGPRCDDk76Gbpi8wGJrLiAuFd1oz5p.jpeg" alt="1543413484-427328358-gptE7wsbkPJGPRCDDk76Gbpi8wGJrLiAuFd1oz5p.jpeg">
+                                                                    </a>
+                            </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+    <section class="section-wrapper categories-wrapper">
+    <div class="container">
+        <div class="section-title text-center">
+            <h2 class="heading">OTHER SERVICES</h2>
+        </div>
+        <ul class="list-items row mt-5">
+                        <li class="item col-sm-6 width50-flex">
+                <div class="media row align-items-center">
+                    <a class="col-lg-6" href="photo-enhancement">
+                        <img src="../statics/files/1543887652-312756307-vVSNvlRfzvtFjhrWzWQF3y5szL6cACKskKsmeCeX.jpeg" alt="Photo Enhancement.jpg" />
+                    </a>
+                    <div class="col-lg-6 media-body">
+                        <a href="photo-enhancement">
+                            <h3>Photo Enhancement</h3>
+                            <p>With our highly skilled team, we are confident that we will meet your needs. Please do not hesitate to contact us for a free trial enabling us to better understand your expectations and required editing style</p>
+                            <p class="price">To be informed after testing</p>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                        <li class="item col-sm-6 width50-flex">
+                <div class="media row align-items-center">
+                    <a class="col-lg-6" href="day-to-dusk">
+                        <img src="../statics/files/1543335540-1899990614-zz2OPvZ70nDJlTJgCQgcHctsnPwpuos0J7JM0xa1.jpeg" alt="Day convert to night.jpg" />
+                    </a>
+                    <div class="col-lg-6 media-body">
+                        <a href="day-to-dusk">
+                            <h3>Day to Dusk</h3>
+                            <p>We can turn your day time photography to dusk using specialist techniques to create something special!</p>
+                            <p class="price">To be informed after testing</p>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                        <li class="item col-sm-6 width50-flex">
+                <div class="media row align-items-center">
+                    <a class="col-lg-6" href="item-removal">
+                        <img src="../statics/files/1543887935-674614064-3GgBPZYYauYqDncXEdSvMlTfzZqIhRaDw3q1HuQq.jpeg" alt="Decluttering.jpg" />
+                    </a>
+                    <div class="col-lg-6 media-body">
+                        <a href="item-removal">
+                            <h3>Decluttering</h3>
+                            <p>Let’s make the house clear of any clutter to fully showcase the property to its full potential. We are confident that our expertise and flexible pricing won’t let you down</p>
+                            <p class="price">Flexible</p>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                        <li class="item col-sm-6 width50-flex">
+                <div class="media row align-items-center">
+                    <a class="col-lg-6" href="virtual-furniture">
+                        <img src="../statics/files/1543892492-40643613-3By94oOZ5iDoSnSCc0TgpGP35zjD9XJiTfD4vUGJ.jpeg" alt="Virtual Furniture.jpg" />
+                    </a>
+                    <div class="col-lg-6 media-body">
+                        <a href="virtual-furniture">
+                            <h3>Virtual Furniture</h3>
+                            <p>Vacant house? No problem, lets create ambiance and wow factor by utilising our virtual furniture service. We are confident that you wont be able to tell the difference!</p>
+                            <p class="price">To be informed after checking</p>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                        <li class="item col-sm-6 width50-flex">
+                <div class="media row align-items-center">
+                    <a class="col-lg-6" href="panorama-stitching">
+                        <img src="../statics/files/1543886840-1187243525-6ABV4ktmIjlPZwMbfjsVrt0L6VtWPBivRPblUdEn.jpeg" alt="Panoramic Stitching.jpg" />
+                    </a>
+                    <div class="col-lg-6 media-body">
+                        <a href="panorama-stitching">
+                            <h3>Panoramic Stitching</h3>
+                            <p>Sometimes, instead of recording a video, a panorama image is also a good idea for everyone to have a quick tour around your room/apartment and honestly, it is cheaper too.</p>
+                            <p class="price">To be informed after testing</p>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                        <li class="item col-sm-6 width50-flex">
+                <div class="media row align-items-center">
+                    <a class="col-lg-6" href="floor-plan">
+                        <img src="../statics/files/1543923123-203221419-PidXSZw7Etwn7MsBN47jbpwVWc7BuKWmJjTJFhWA.jpeg" alt="2D Color.jpg" />
+                    </a>
+                    <div class="col-lg-6 media-body">
+                        <a href="floor-plan">
+                            <h3>Floor Plan</h3>
+                            <p>Floorplans are a vital form of marketing to showcase the properties layout and flow. We – Edit can create these for you starting from USD 8.0</p>
+                            <p class="price">To be informed after testing</p>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                    </ul>
+    </div>
+</section>
+</main>
+
+        <footer class="site-footer">
+    <section class="footer-main">
+        <div class="container">
+            <div class="row">
+                <div class="f-col f-logo-wrapper col-sm-12 col-md-12 col-lg-3 col-xl-3">
+                    <a href="../index.html" class="f-logo">
+                        <img src="../statics/files/seeds/logo.png" alt="we-edit.com" />
+                    </a>
+                    <ul class="social horizontal">
+                        <li><a href="https://www.facebook.com/FotoEditingService/" target="_blank"><i class="fa fa-facebook" aria-label="Facebook"></i></a></li>
+                        <li><a href="https://twitter.com" target="_blank"><i class="fa fa-twitter" aria-label="Twitter"></i></a></li>
+                        <li><a href="https://instagram.com" target="_blank"><i class="fa fa-instagram" aria-label="true"></i></a></li>
+                        <li><a href="https://youtube.com" target="_blank"><i class="fa fa-youtube" aria-label="YouTube"></i></a></li>
+                        <li class="last"><a href="https://linkedin.com" target="_blank"><i class="fa fa-linkedin-square" aria-label="Linkedin"></i></a></li>
+                    </ul>
+                </div>
+                <div class="f-col col-sm-6 col-md-4 col-lg-2 col-xl-2">
+                    <h3 class="f-title">Our Services</h3>
+                    <ul>
+                                                <li><a class="text-capitalize" href="virtual-furniture">VIRTUAL FURNITURE</a></li>
+                                                <li><a class="text-capitalize" href="floor-plan">FLOOR PLAN</a></li>
+                                                <li><a class="text-capitalize" href="item-removal">DECLUTTERING</a></li>
+                                                <li><a class="text-capitalize" href="photo-enhancement">PHOTO ENHANCEMENT</a></li>
+                                                <li><a class="text-capitalize" href="panorama-stitching">PANORAMIC STITCHING</a></li>
+                                            </ul>
+                </div>
+                <div class="f-col col-sm-6 col-md-4 col-lg-3 col-xl-3">
+                    <h3 class="f-title">Our Flickr</h3>
+                    <div id="lightgallery-flickr" class="gallery-inner column-3 overflow-hidden"></div>
+                </div>
+
+
+                <div class="f-col facebook-box-wrapper col-sm-12 col-md-4 col-lg-4 col-xl-4">
+                    <div class="facebook-box">
+                        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFotoEditingService%2F&tabs&width=340&height=214&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="214" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="copyright">
+        <div class="container">
+            <div class="row">
+                <p class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">© we-edit.com Pty Ltd. All Rights Reserved.</p>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+                    <ul class="list-horizontal">
+                        <li><a href="../about">About</a></li>
+                        <li><a href="../blog">Blog</a></li>
+                        <li><a href="../contact">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+</footer>
+
+        <a href="photo-enhancement#site-body" id="back-top">
+            <i class="fa fa-long-arrow-up"></i>
+        </a>
+     </div>
+    <script>
+        var flickerConfigs = {
+            baseUrl: 'https://api.flickr.com/services/rest/',
+            apiKey: '3c73644788ac2d1aa5694a308c7c71e4',
+            photoSetID: '72157674021237807',
+        };
+    </script>
+    <script src="../assets/js/frontend.js"></script>
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130516051-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', "UA-130516051-1");
+    </script>
+    </body>
+</html>

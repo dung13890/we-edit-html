@@ -124,6 +124,55 @@
 .section-title .heading:after {
   width: 180px;
 }
+
+.slider-wrapper {
+  position: relative;
+  background-color: black;
+  height: 100vh;
+  min-height: 25rem;
+  width: 100%;
+  overflow: hidden;
+}
+
+.slider-wrapper video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: 0;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.slider-wrapper .container {
+  position: relative;
+  z-index: 2;
+}
+
+.slider-wrapper .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  opacity: 0.5;
+  z-index: 1;
+}
+
+@media (pointer: coarse) and (hover: none) {
+  .slider-wrapper {
+    background: url('https://source.unsplash.com/XT5OInaElMw/1600x900') black no-repeat center center scroll;
+  }
+  .slider-wrapper video {
+    display: none;
+  }
+}
     </style>
     </head>
 <body id="site-body" class="homepage offcanvas-init">
@@ -223,40 +272,18 @@
 
         <main class="site-main bg-grey">
     <section class="section-wrapper slider-wrapper py-0">
-    <div class="flexslider control-paging-vertical control-paging-large flexslider-hidden">
-        <ul class="slides">
-                                            <li>
-                    <div class="slide-item" href="#">
-                        <div class="img-wrapper">
-                            <img class="banner" src="statics/files/1543642126-1050755633-saH2EsgTTrDcDwy8bLfZbGqYyjNSobzvj5uqN5AG.jpeg" alt="2D_FAI_Matterport_Black And Wihte" />
-                        </div>
-                        <div class="slide-item-text container shadow-lg crazy-style-1">
-                            <h1 class="animate_left_to_right">2D_FAI_Matterport_Black And Wihte</h1>
-                        </div>
-                    </div>
-                </li>
-                                <li>
-                    <div class="slide-item" href="#">
-                        <div class="img-wrapper">
-                            <img class="banner" src="statics/files/1543642043-1197226765-THfp1hvQ8FuvZZDCpLWtqFcA8TdYzTQArxFy7G3X.jpeg" alt="2D Black And White Full Furniture" />
-                        </div>
-                        <div class="slide-item-text container shadow-lg crazy-style-1">
-                            <h1 class="animate_left_to_right">2D Black And White Full Furniture</h1>
-                        </div>
-                    </div>
-                </li>
-                                <li>
-                    <div class="slide-item" href="#">
-                        <div class="img-wrapper">
-                            <img class="banner" src="statics/files/1543641658-875474064-yoUVVcTBamsVlWI9TPRxHscyT3hGQ9AnfKbfOGSh.jpeg" alt="2d Color" />
-                        </div>
-                        <div class="slide-item-text container shadow-lg crazy-style-1">
-                            <h1 class="animate_left_to_right">2d Color</h1>
-                        </div>
-                    </div>
-                </li>
-                                    </ul>
+    <div class="overlay"></div>
+  <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+    <source src="./statics/files/856115177.mp4" type="video/mp4">
+  </video>
+  <div class="container h-100">
+    <div class="d-flex h-100 text-center align-items-center">
+      <div class="w-100 text-white">
+        <h1 class="display-3">PROFESSIONAL REAL ESTATE IMAGES EDITING SERVICE</h1>
+        <p class="lead mb-0">Free test without signup. Send your images today and get edited next morning</p>
+      </div>
     </div>
+  </div>
 </section>
     <section class="section-wrapper introduction-wrapper">
         <div class="container">
@@ -279,7 +306,7 @@
           <div class="package">
             <div class="header-package-1 text-center">
                 <div class="embed-responsive embed-responsive-4by3">
-                  <iframe src="https://www.youtube.com/embed/2OyrTcZHpps?start=10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <iframe src="https://www.youtube.com/embed/2OyrTcZHpps?start=10&autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
             <!-- details -->
